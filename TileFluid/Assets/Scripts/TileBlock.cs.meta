@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4e2423cb76a0dfe44bd5d8d5a0e30a2a
+timeCreated: 1545216866
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  - m_InstancedGameObject: {fileID: 1902988558752340, guid: bc3550b86a8a5a249a589d89b4e31abf,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -49,6 +49,9 @@ public class WorldGenerator : MonoBehaviour {
 
     private void Awake()
     {
+        if (width > 200) width = 200;
+        if (height > 200) height = 200;
+
         // chunk 만들고 청크로 총크기 받아와서 생성 및 worldSize세팅
         worldSize = new Vector2Int(width, height);
         startPos = new Vector2Int(0, 0);

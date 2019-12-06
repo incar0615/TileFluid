@@ -1,0 +1,26 @@
+﻿TileFluid/Assembly-CSharp-Editor-vs.csproj
+TileFluid/Assembly-CSharp-Editor.csproj
+TileFluid/Assembly-CSharp-vs.csproj
+TileFluid/Assembly-CSharp.csproj
+TileFluid/TileFluid-csharp.sln
+TileFluid/TileFluid.sln
+TileFluid/Assembly-CSharp-firstpass-vs.csproj
+TileFluid/Assembly-CSharp-firstpass.csproj
+TileFluid/.vs
+
+# UNITY #
+TileFluid/Library
+TileFluid/obj
+TileFluid/Temp
+TileFluid/AssetBundles
+
+#etc#
+launch.json
+Assembly-CSharp-Editor-firstpass.csproj
+TileFluid/TileFluid.csproj
+TileFluid/TileFluid.Editor.csproj
+
+TileFluid/Library
+TileFluid/Temp
+ProjectVersion.txt
+TileFluid.sln

@@ -88,10 +88,12 @@ public class FluidDynamics : MonoBehaviour {
     {
         StartCoroutine(UpdateFluid());
     }
+
     IEnumerator UpdateFluid()
     {
         while(!isGenerating)
         {
+            // start와 end 로 시뮬레이트할 블록들만 선택해서 비용 절감
             Vector2 startPosition = WorldGenerator.Instance.StartPos;
             Vector2 endPosition = WorldGenerator.Instance.EndPos;
             
